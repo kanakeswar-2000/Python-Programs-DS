@@ -1,5 +1,5 @@
 '''
-Given a space seperated words and a number N, write a program to print last N words
+Given a space seperated words and a number N, write a program to print last N words in reverse order
 '''
 
 sentence=input()
